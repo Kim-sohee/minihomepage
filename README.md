@@ -19,5 +19,8 @@
 ## 푸터 추가
 - footer.md 파일 추가
 
+## 서치 추가
+- search.md 파일 추가
+
 ## 사이드 바 추가
 - sidebar.md 파일 추가
